@@ -6,7 +6,6 @@
 
 import numpy as np
 import torch
-
 from src.data.geometries import (
     ALL_ENTITY_CLASSES,
     DoorEntity,

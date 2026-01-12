@@ -10,7 +10,6 @@ from enum import IntEnum
 import torch
 import torchsparse
 from omegaconf import OmegaConf
-
 from src.data.geometries import ALL_ENTITY_CLASSES, get_entity_class_from_token
 from src.data.language_sequence import is_id_param, LanguageSequence
 from src.data.point_cloud import PointCloud
