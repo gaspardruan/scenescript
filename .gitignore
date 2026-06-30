@@ -1,0 +1,10 @@
+__pycache__
+.pyc
+
+checkpoints/
+data/
+s3d_floorplan_eval/montefloor_data
+spatiallm_eval
+
+*.o
+*.so
