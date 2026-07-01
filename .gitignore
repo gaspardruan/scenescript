@@ -5,6 +5,8 @@ checkpoints/
 data/
 s3d_floorplan_eval/montefloor_data
 spatiallm_eval
+predictions_ase_200k
+spatiallm_eval_ase_200k_hfgt
 
 *.o
 *.so
